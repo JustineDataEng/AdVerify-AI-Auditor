@@ -1,6 +1,6 @@
 # 🛡️ AdVerify Pro: AI-Powered Market Research Agent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([PASTE_YOUR_LINK_HERE])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://adverify-ai-auditor.streamlit.app/])
 
 ### 🚀 [Click Here to see the Live Demo]([https://adverify-ai-auditor.streamlit.app/])
 *(Type **'DEMO'** in the sidebar to test it without an API key!)*
@@ -24,3 +24,4 @@ As a **Data Science and Engineering Fellow** (Class of 2026), I built this to so
 ## 📩 Hiring & Contact
 I specialize in building custom AI Agents for business automation.
 [**View my Upwork Profile**](https://www.upwork.com/freelancers/~01b5e8fc2373c391ce?mp_source=share)
+
