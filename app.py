@@ -100,5 +100,5 @@ if submitted:
 
 st.divider()
 st.markdown("### 🛠️ Need a custom AI Auditor for your business?")
-# Remember to replace ~YOUR_ID_HERE with your actual Upwork ID later
 st.markdown("[📩 **Hire me on Upwork to discuss your project**](https://www.upwork.com/freelancers/~01b5e8fc2373c391ce?mp_source=share)")
+
