@@ -79,7 +79,7 @@ st.title("🛡️ AdVerify Local")
 st.markdown("### AI Market Audit Agent")
 st.write("Professional verification of advertising vendor quotes using LLM analysis.")
 
-# Using a form to group inputs and prevent the "Red Flash"
+# Using a form to group inputs
 with st.form("audit_form"):
     c1, c2 = st.columns(2)
     with c1: 
@@ -95,7 +95,7 @@ if submitted:
         st.error("⚠️ Please enter 'DEMO' or a real API key in the sidebar.")
     else:
         with st.spinner('🤖 AI Agent is auditing prices...'):
-            # This calls your AdVerifier class
+            # This calls AdVerifier class
             result = AdVerifier(key_input).verify(loc, price)
         
         if result.get("status") == "ERROR":
@@ -127,3 +127,4 @@ if submitted:
 st.divider()
 st.markdown("### 🛠️ Professional Services")
 st.markdown("[📩 **Hire me on Upwork to discuss your custom AI project**](https://www.upwork.com/freelancers/~01b5e8fc2373c391ce?mp_source=share)")
+
