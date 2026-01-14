@@ -28,7 +28,7 @@ class AdVerifier:
 
     def verify(self, location, user_price):
         # --- DEMO BYPASS ---
-        if self.api_key.upper() == "DEMO":
+        if self.api_key == "DEMO":
             time.sleep(1.5) 
             # Logic: If price is > 10% above live, call it overpriced
             live_price = self.sources.get_data(location)['live']
@@ -127,4 +127,5 @@ if submitted:
 st.divider()
 st.markdown("### 🛠️ Professional Services")
 st.markdown("[📩 **Hire me on Upwork to discuss your custom AI project**](https://www.upwork.com/freelancers/~01b5e8fc2373c391ce?mp_source=share)")
+
 
