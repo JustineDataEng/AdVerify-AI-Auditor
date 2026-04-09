@@ -3,7 +3,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://adverify-ai-auditor.streamlit.app/])
 
 ### [Click Here to see the Live Demo](https://adverify-ai-auditor.streamlit.app/)
-*(Type **'DEMO'** in the sidebar to test it without an API key!)*
+*(Type **'DEMO'** in the sidebar to test it without an API key)*
 
 ---
 
