@@ -1,4 +1,4 @@
-# 🛡️ AdVerify Pro: AI-Powered Market Research Agent
+# AdVerify Pro: AI-Powered Market Research Agent
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://adverify-ai-auditor.streamlit.app/])
 
@@ -15,7 +15,7 @@ As a **Data Science and Engineering Fellow** (Class of 2026), I built this to so
 * **Interactive Engineering:** Deploying a real-time tool with Streamlit.
 * **Security:** Professional handling of API keys for client safety.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Frontend:** Streamlit
 * **AI Framework:** LangChain (GPT-4o)
 * **Data:** Pandas
